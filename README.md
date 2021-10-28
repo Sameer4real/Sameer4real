@@ -1,7 +1,7 @@
 <h1 >What it do babeeeee 👋</h1>
 <p><h3>Sameer's here 🔥</h3>A passionate Software Engineer from Jordan.</p>
 
-- 🌱 I’m currently learning Data Structures & Algorithms **<a href="https://www.google.com/search?q=Grokking+Algorithms%3A+An+Illustrated+Guide+for+Programmers+and+Other+Curious+People&sxsrf=AOaemvLYAabpWdA2CnTYIbUwTvyjXvj1Rw%3A1635418457665&ei=WYF6YamUKIrQUqmrsrgN&ved=0ahUKEwjppOnB-OzzAhUKqBQKHamVDNcQ4dUDCA4&oq=Grokking+Algorithms%3A+An+Illustrated+Guide+for+Programmers+and+Other+Curious+People&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGABQAFgAYO4YaABwAngAgAEAiAEAkgEAmAEA&sclient=gws-wiz" target="blank">Grokking Algorithms <a/>**
+- 🌱 I’m currently learning Data Structures & Algorithms **<a href="https://www.google.com/search?q=Grokking+Algorithms%3A+An+Illustrated+Guide+for+Programmers+and+Other+Curious+People&sxsrf=AOaemvLYAabpWdA2CnTYIbUwTvyjXvj1Rw%3A1635418457665&ei=WYF6YamUKIrQUqmrsrgN&ved=0ahUKEwjppOnB-OzzAhUKqBQKHamVDNcQ4dUDCA4&oq=Grokking+Algorithms%3A+An+Illustrated+Guide+for+Programmers+and+Other+Curious+People&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGABQAFgAYO4YaABwAngAgAEAiAEAkgEAmAEA&sclient=gws-wiz" target="_blank">Grokking Algorithms <a/>**
 
 - 🔭 I'm currently working : <a href="https://jo.linkedin.com/company/xina-ai" target="blank">Xina.AI</a> 
 
