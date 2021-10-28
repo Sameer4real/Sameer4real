@@ -1,5 +1,5 @@
 <h1 >What it do babeeeee 👋</h1>
-<p><h3>Sameer's here,</h3>a passionate Software Engineer from Jordan</p>
+<p><h3>Sameer's here 🔥</h3>A passionate Software Engineer from Jordan.</p>
 
 - 🌱 I’m currently learning Data Structures & Algorithms **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**
 
