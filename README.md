@@ -20,17 +20,17 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sameer4real&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer4real&show_icons=true&locale=en&layout=demo" alt="sameer4real" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sameer4real&repo=convoychat" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer4real&show_icons=true&theme=dark)
 </a>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer4real&show_icons=true&locale=en&layout=demo" alt="sameer4real" /></p>
+
 
 <!-- ### What it do babeeeee! 👋
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer4real&show_icons=true&locale=en&layout=demo" alt="sameer4real" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer4real&layout=demo)](https://github.com/Sameer4real/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
