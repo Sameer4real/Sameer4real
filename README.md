@@ -5,8 +5,9 @@
 
 - 📫 How to reach me [Linkedin prfoile] **https://www.linkedin.com/in/sameer4real/**
 
+- 🎯 My Learning List : UML Models, Desgin patterns 
+
 - ⚡ Fun fact **I like rapping but i suck at it so... lol**
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer4real&show_icons=true&theme=dark)
 
     <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer4real&repo=convoychat" />
 </a> -->
 
+    
 
 
 
