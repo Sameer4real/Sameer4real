@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sameer Twal</h1>
-<h3 align="center">A passionate Software Engineer from Jordan</h3>
+<h1 >Hi 👋, I'm <strong>Sameer Twal</strong></h1>
+<h3 >A passionate Software Engineer from Jordan</h3>
 
 - 🌱 I’m currently learning Data Structures & Algorithms **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**
 
