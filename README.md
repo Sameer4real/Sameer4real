@@ -6,6 +6,7 @@
 - 📫 How to reach me [Linkedin prfoile] **https://www.linkedin.com/in/sameer4real/**
 
 - ⚡ Fun fact **I like rapping but i suck at it so... lol**
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer4real&show_icons=true&theme=dark)
 
     <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +23,7 @@
 <a href="https://github.com/sameer4real/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer4real&show_icons=true&locale=en&layout=demo" alt="sameer4real" />
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer4real&show_icons=true&theme=dark)
+
 
 
 
