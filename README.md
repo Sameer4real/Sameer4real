@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning Data Structures & Algorithms **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**
 
+- 🔭 I'm currently working : <a href="https://twitter.com/sameer04real">Xina.AI</a> 
+
 - 📫 How to reach me [Linkedin prfoile] **https://www.linkedin.com/in/sameer4real/**
 
 - 🎯 My Learning List : UML Models, Desgin patterns 
