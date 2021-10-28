@@ -22,9 +22,7 @@
 <a href="https://github.com/sameer4real/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer4real&show_icons=true&locale=en&layout=demo" alt="sameer4real" />
 </a>
-<a href="https://github.com/sameer4real/convoychat">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer4real&show_icons=true&theme=dark)
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer4real&show_icons=true&theme=dark)
 
 
 
